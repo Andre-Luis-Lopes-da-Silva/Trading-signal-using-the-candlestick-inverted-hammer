@@ -12,6 +12,6 @@ In this study, this candlestick indicates four signals, two for buy and two for 
 
 ![inverted_hammer](https://user-images.githubusercontent.com/78765404/209820303-87fe3731-03af-4911-bfa7-502e24590863.png)
 
-Figure 2. Candlestick chart created by Plotly demonstrating the positions of the inverted hammer.
+Figure 2. Candlestick chart created using Plotly demonstrating the positions of the inverted hammer.
 
 The buy signal is confirmed when the close of the next candle is larger than the close of the inverted hammer and the sell signal is confirmed when the close of the next candle is smaller than the close of the inverted hammer. 
