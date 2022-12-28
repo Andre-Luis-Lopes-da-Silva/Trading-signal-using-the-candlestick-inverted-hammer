@@ -6,7 +6,7 @@ Candlestick charts are used by traders to determine possible price action based 
 ![Inverted-hammer-and-shooting-star](https://user-images.githubusercontent.com/78765404/209818099-ee2ed998-3f78-4d60-8a44-624374ac53f1.png)
 Figure 1. Differences of an inverted hammer and a shooting star, the figure is the same, but where it appears is what differ it.  
 
-Hystorical data of assets can be used to performe backtesting. Backtesting means the process of testing a trading strategy on historical data to assess its accuracy. Moreover, it can be used to genereate trading signals to indicate buy or sell of assets. 
+Hystorical data of assets can be used to performe backtesting. Backtesting means the process of testing a trading strategy on historical data to assess its accuracy. Moreover, it can be used to generate trading signals to indicate buy or sell of assets. 
 
 In this study, this candlestick indicates four signals, two for buy and two for sell. 
 
