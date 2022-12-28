@@ -9,3 +9,8 @@ Figure 1. Differences of an inverted hammer and a shooting star, the figure is t
 Historical data of assets can be used to performe backtesting. Backtesting means the process of testing a trading strategy on historical data to assess its accuracy. Moreover, it can be used to genereate trading signals to indicate buy or sell of assets. 
 
 In this study, this candlestick indicates four signals, two for buy and two for sell. 
+
+![inverted_hammer](https://user-images.githubusercontent.com/78765404/209820303-87fe3731-03af-4911-bfa7-502e24590863.png)
+Figure 2. Candlestick chart created by Plotly demonstrating the positions of the inverted hammer.
+
+The buy signal is confirmed when the close of the next candle is larger than the close of the inverted hammer and the sell signal is confirmed when the close of the next candle is smaller than the close of the inverted hammer. 
